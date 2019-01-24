@@ -28,7 +28,7 @@ to
 or
 ```
 #!/bin/python3
-!!!
+```
 accordind to your previous version
 
 This is the output of the script typing english, greek and "control" characters
